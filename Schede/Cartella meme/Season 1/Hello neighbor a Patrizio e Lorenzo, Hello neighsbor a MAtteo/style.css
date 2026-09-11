@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.Meme {
+    width: 919px;
+    height: 919px;
+}
+
+.tutto {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    max-width: 100%;
+    max-height: 100%;
+    column-gap: 200px;
+}
+
+.Bio {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    line-height: 200px;
+}
+
+.bio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.meme {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
