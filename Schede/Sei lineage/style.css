@@ -19,3 +19,9 @@
     height: 350px;
     border-radius: 20px;
 }
+
+.fila-di-meme {
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+}
